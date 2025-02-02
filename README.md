@@ -18,8 +18,8 @@ Frontend: Django Admin Panel
 
 📌 Installation Steps
 🔹 1. Clone the Repository
-git clone https://github.com/yourusername/faq-management.git
-cd faq-management
+git clone https://github.com/Shubham-Pathak01/BharatFD-backend-assignment.git
+cd FAQ_Model
 🔹 2. Create a Virtual Environment
 python -m venv venv
 'venv\Scripts\activate'
